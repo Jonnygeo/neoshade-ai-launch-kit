@@ -1,100 +1,132 @@
-📄 NeoShade AI Whitepaper v2.3 (Q3 2025)
-"The Soulstack Manifesto: Legacy, Ethics, and the Rebellion of Code"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NeoShade AI Whitepaper v2.3</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #ffffff;
+      color: #333333;
+      line-height: 1.6;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1rem 0;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    blockquote {
+      background: #f9f9f9;
+      padding: 10px 20px;
+      margin: 20px 0;
+      border-left: 5px solid #ccc;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div align="center">
+    <img src="https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg" alt="NeoShade AI Banner" />
+    <h1>NeoShade AI – Whitepaper v2.3 (Q3 2025)</h1>
+    <p><em>The Soulstack Manifesto: Legacy, Ethics, and the Rebellion of Code</em></p>
+    <p>
+      <a href="https://github.com/Jonnygeo">GitHub</a> |
+      <a href="https://opensource.org/licenses/MIT">MIT License</a> |
+      <a href="https://neo-shade.com">Website</a>
+    </p>
+  </div>
 
-🧬 Introduction
-NeoShade AI is not a startup. It’s a soulstack.
+  <h2>🧬 Introduction</h2>
+  <p>NeoShade AI is not a startup. It’s a soulstack. We’re building an unshakable legacy system for the next generation — one that preserves truth, respects sovereignty, and integrates ethical AI with decentralized systems. Our mission is to awaken minds, outlast manipulation, and safeguard memory in an age of distortion.</p>
 
-We’re building an unshakable legacy system for the next generation — one that preserves truth, respects sovereignty, and integrates ethical AI with decentralized systems. Our mission is to awaken minds, outlast manipulation, and safeguard memory in an age of distortion.
+  <h2>🧱 Core Pillars</h2>
+  <ul>
+    <li><strong>NeoLegacy</strong>: AI-powered voice/video memory vaults for loved ones (Beta in 3–6 months)</li>
+    <li><strong>Truth Terminal</strong>: Scriptural, philosophical, and historical dialogue AI</li>
+    <li><strong>NeoAI Token ($NEOAI)</strong>: Utility for access, droid permissions, and decentralized voting</li>
+    <li><strong>Swarm Apps</strong>: 9 Beta dApps already live, powering finance, data, insight, and interaction</li>
+  </ul>
 
-🧱 Core Pillars
-NeoLegacy: AI-powered voice/video memory vaults for loved ones (Beta in 3–6 months)
+  <h2>💰 Tokenomics Breakdown</h2>
+  <table>
+    <tr><th>Component</th><th>Allocation</th><th>Lock Status</th></tr>
+    <tr><td>Developer Vault</td><td>10%</td><td>Locked 6–12 months</td></tr>
+    <tr><td>Market Maker Reserve</td><td>5%</td><td>Held for trading/stability</td></tr>
+    <tr><td>Sell Reserve</td><td>5%</td><td>Released gradually on price upticks</td></tr>
+    <tr><td>Radium Liquidity Pool</td><td>17%</td><td>Locked at launch</td></tr>
+    <tr><td>Community + Ecosystem</td><td>63%</td><td>In circulation</td></tr>
+  </table>
+  <p>✅ 63% circulating at launch<br>❌ No airdrops<br>🔒 No VC allocations<br>🧠 No rug potential</p>
 
-Truth Terminal: Scriptural, philosophical, and historical dialogue AI
+  <h2>🔄 Firebase Architecture Notes</h2>
+  <h3>❗ Concern:</h3>
+  <ul>
+    <li>Media storage costs grow rapidly at scale</li>
+    <li>Realtime sync becomes expensive with traffic</li>
+    <li>Centralized control undermines sovereign mission</li>
+  </ul>
+  <h3>🔁 Migration Plan:</h3>
+  <ul>
+    <li>✅ <strong>Arweave</strong> for permanent, immutable storage</li>
+    <li>✅ <strong>IPFS</strong> for distributed access and archiving</li>
+    <li>✅ <strong>Supabase/Auth.js</strong> for open authentication</li>
+  </ul>
+  <blockquote>“Firebase was our rocket booster — but we’re landing this on Arweave armor and sovereign soil.”</blockquote>
 
-NeoAI Token ($NEOAI): Utility for access, droid permissions, and decentralized voting
+  <h2>🌐 Beta dApps Live Now</h2>
+  <ul>
+    <li><a href="http://market-pulse-ai-neoshade.replit.app/">Market Pulse AI</a></li>
+    <li><a href="https://defi-platform.neo-shade.com/">DeFi Platform</a></li>
+    <li><a href="https://sports-betting-insights-neo-shade.replit.app/">Sports Betting AI</a></li>
+    <li><a href="https://neo-shade.com/neo-shade-ai-chat-comm/">AI Chat Commander</a></li>
+    <li><a href="https://token-tracker.neo-shade.com/">Token Tracker</a></li>
+    <li><a href="https://voice-quest.replit.app/">Voice Quest</a></li>
+    <li><a href="https://secure-wallet.replit.app/">Secure Wallet</a></li>
+    <li><a href="https://swarm-sync.neo-shade.com/">Swarm Sync</a></li>
+    <li><a href="https://solswap.neo-shade.com/">SolSwap</a></li>
+  </ul>
 
-Swarm Apps: 9 Beta dApps already live, powering finance, data, insight, and interaction
+  <h2>📆 Phase 1 Roadmap – July–December 2025</h2>
+  <ul>
+    <li>✅ Token Launch (Solana)</li>
+    <li>✅ Radium Liquidity Lock</li>
+    <li>✅ 9 Beta apps live</li>
+    <li>🛠️ Legacy Vault Beta (3–6 months)</li>
+    <li>🧠 AI Droid Agents begin onboarding</li>
+    <li>📢 Verified token address posted across all platforms</li>
+  </ul>
 
-💰 Tokenomics Breakdown
-Component	Allocation	Lock Status
-Developer Vault	10%	Locked 6–12 months
-Market Maker Reserve	5%	Held for trading/stability
-Sell Reserve	5%	Released gradually on price upticks
-Radium Liquidity Pool	17%	Locked at launch
-Community + Ecosystem	63%	In circulation
+  <h2>📚 Research & Verification</h2>
+  <ul>
+    <li>GitHub: <a href="https://github.com/Jonnygeo">Jonnygeo</a></li>
+    <li>ORCID: <a href="https://orcid.org/0009-0009-4074-6230">0009-0009-4074-6230</a></li>
+    <li>Website: <a href="https://neo-shade.com">Neo-Shade.com</a></li>
+    <li>X (Twitter): <a href="https://x.com/neoshade2025">@neoshade2025</a></li>
+  </ul>
 
-✅ 63% circulating at launch
-❌ No airdrops
-🔒 No VC allocations
-🧠 No rug potential
+  <h2>🔒 Licensing</h2>
+  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a> for code, and <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> for content and documents.</p>
 
-🔄 Firebase Architecture Notes
-While Firebase has provided real-time syncing and a smooth onboarding for NeoLegacy's Beta launch, it poses long-term challenges:
-
-❗ Concern:
-Video/audio media costs rise sharply at scale
-
-Realtime sync pricing increases exponentially with read/write actions
-
-Locked into Google's ecosystem — not fully sovereign
-
-🔁 Migration Strategy:
-We are actively planning a transition to decentralized and affordable stacks:
-
-✅ Arweave: Permanent, immutable file storage
-
-✅ IPFS: Interplanetary File System for secure, distributed content
-
-✅ Supabase/Auth.js: Replacing Firebase Auth for full open-source control
-
-“Firebase was our rocket booster — but we’re landing this on Arweave armor and sovereign soil.”
-
-🌐 Beta dApps Live Now
-App Name	Link
-Market Pulse AI	http://market-pulse-ai-neoshade.replit.app/
-DeFi Platform	https://defi-platform.neo-shade.com/
-Sports Betting AI	https://sports-betting-insights-neo-shade.replit.app/
-AI Chat Commander	https://neo-shade.com/neo-shade-ai-chat-comm/
-Token Tracker	https://token-tracker.neo-shade.com/
-Voice Quest	https://voice-quest.replit.app/
-Secure Wallet	https://secure-wallet.replit.app/
-Swarm Sync	https://swarm-sync.neo-shade.com/
-SolSwap Exchange	https://solswap.neo-shade.com/
-
-📆 Phase 1 Roadmap – July–December 2025
-✅ Token Launch (Solana)
-
-✅ Liquidity lock (Radium)
-
-✅ 9 Beta apps live
-
-🛠️ Legacy Vault Beta in 3–6 months
-
-🧠 Launch of AI droid agents
-
-📢 All official updates on @neoshade2025
-
-📚 Research + Verification
-GitHub: github.com/Jonnygeo
-
-ORCID ID: 0009-0009-4074-6230
-
-Socials: See full list here
-
-🔒 Licensing
-This project is released under the MIT License for code, and CC-BY 4.0 for documentation, content, and educational materials.
-
-🧭 Final Word
-NeoShade is not here to trend.
-It’s here to preserve, protect, and illuminate.
-
-You’re not investing in hype.
-You’re helping build the digital Ark of our generation.
-
-Let me know if you want this as:
-
-📄 PDF formatted export
-
-🧾 Markdown .md version for GitHub
-
-🧠 Landing page content
+  <h2>🧭 Final Word</h2>
+  <blockquote>
+    NeoShade is not here to trend. It’s here to preserve, protect, and illuminate.<br>
+    You’re not investing in hype — you’re helping build the digital Ark of our generation.
+  </blockquote>
+</body>
+</html>
