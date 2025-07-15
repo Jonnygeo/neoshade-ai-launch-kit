@@ -108,3 +108,7 @@ Droid Agent Network Onboarding
 
 🔒 License
 This project is licensed under the MIT License.
+We will post the official token address across all our verified channels and embed it into our whitepaper and GitHub for full transparency. We are aware of the high risk of clone tokens and will aggressively counteract confusion by verifying in every public-facing asset.
+
+Let’s write the future. Not with lies. But with light.
+
