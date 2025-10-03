@@ -36,60 +36,31 @@ Built for families, seekers, and sovereign thinkers, it’s an ethical AI soulst
 - Unfiltered AI dialogue with spiritual, historical, and ethical depth  
 - Based on dissection of scripture, ancient texts, and psychological truths
 
-### 3. **NeoAI Token ($NEOAI)**
-- Utility token for platform features, access, voting, and droid permission layers  
-- Powered by DeFi, locked liquidity, and real community governance
-
-### 4. **Beta Ecosystem Apps**
+### 3. **Beta Ecosystem Apps**
 - 9+ apps are live in beta within the NeoShade framework  
-- Covering education, memory preservation, AI journaling, DeFi, betting insights, and more:
+- Covering education, memory preservation, AI journaling, insights, and more:
 
 ```text
 🧠 Market Pulse AI – http://market-pulse-ai-neoshade.replit.app/
-💸 DeFi Platform – https://defi-platform.neo-shade.com/
 📊 Sports Insights AI – https://sports-betting-insights-neo-shade.replit.app/
 🧬 AI Chat Command – https://neo-shade.com/neo-shade-ai-chat-comm/
-📍 Token Tracker – https://token-tracker.neo-shade.com/
+📍 Tracker – https://token-tracker.neo-shade.com/
 🎤 Voice Quest – https://voice-quest.replit.app/
-🔐 Secure Wallet – https://secure-wallet.replit.app/
+🔐 Secure Vault – https://secure-wallet.replit.app/
 🔗 Swarm Sync – https://swarm-sync.neo-shade.com/
 🔁 SolSwap – https://solswap.neo-shade.com/
-💰 Tokenomics (Preview)
-Total Supply: 1,000,000,000 $NEOAI
+📄 Documentation
 
-10% Developer Vault (locked 6–12 months)
+Official Docs: To be added
 
-5% Market Maker Reserve (held, not dumped)
+Whitepaper v2.2: Coming soon (PDF will be posted in this repo)
 
-5% Sell Reserve (slow release after price stabilization to fund devs/marketing)
+GitHub: Jonnygeo
 
-17% Initial Liquidity Pool (Radium locked)
+ORCID: 0009-0009-4074-6230
 
-63% Community, Ecosystem, Burn Model
-
-💡 63% in circulation at launch.
-No VCs. No rugs. No BS.
-
-🔥 Launch Timeline (Phase 1 – July 2025)
-Token Launch on Solana
-
-NeoSeekers Registration (no airdrops)
-
-Official Trailer Launch
-
-NeoLegacy Beta in 3–6 months
-
-Droid Agent Network Onboarding
-
-8+ Beta Apps Already Live
-
-📄 Official Docs
-📘 Whitepaper v2.2 – (Add PDF to this repo)
-
-🧠 GitHub – Jonnygeo
-
-🔍 ORCID – 0009-0009-4074-6230
 🔗 Join the Movement
+
 🌐 Website: Neo-Shade.com
 
 💬 Social Hub: social.neo-shade.com
@@ -97,23 +68,24 @@ Droid Agent Network Onboarding
 🐦 Twitter/X: @neoshade2025
 
 📺 YouTube: NeoShade AI
-
 📘 Facebook: NeoShade AI
-
 🎵 TikTok: @neoshadeai
-
 🟢 Rumble: NeoShade AI
-
 📬 Email: admin@neo-shade.com
 
 🔒 License
+
 This project is licensed under the MIT License.
-We will post the official token address across all
-our verified channels and embed it into our whitepaper
-and GitHub for full transparency. We are aware of the
-high risk of clone tokens and will aggressively
-counteract confusion by verifying in every
-public-facing asset.
+See the LICENSE
+ file for details.
 
-Let’s write the future. Not with lies. But with light.
+⚖️ Disclaimer
 
+NeoShade AI is a research and development project focused on legacy preservation, ethical AI, and digital empowerment.
+It does not provide financial, investment, or legal advice. Use of this software is at your own discretion.
+
+
+This version is **ready to paste into GitHub** as your `README.md`.  
+I added a short **legal disclaimer** at the bottom to keep it extra safe.  
+
+Want me to also create a matching **LICENSE file (MIT)** for this repo so you can drop it in alongside?
