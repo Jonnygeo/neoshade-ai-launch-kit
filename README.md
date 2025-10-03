@@ -53,8 +53,6 @@ Built for families, seekers, and sovereign thinkers, it’s an ethical AI soulst
 
 Official Docs: To be added
 
-Whitepaper v2.2: Coming soon (PDF will be posted in this repo)
-
 GitHub: Jonnygeo
 
 ORCID: 0009-0009-4074-6230
@@ -84,8 +82,3 @@ See the LICENSE
 NeoShade AI is a research and development project focused on legacy preservation, ethical AI, and digital empowerment.
 It does not provide financial, investment, or legal advice. Use of this software is at your own discretion.
 
-
-This version is **ready to paste into GitHub** as your `README.md`.  
-I added a short **legal disclaimer** at the bottom to keep it extra safe.  
-
-Want me to also create a matching **LICENSE file (MIT)** for this repo so you can drop it in alongside?
